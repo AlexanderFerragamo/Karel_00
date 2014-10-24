@@ -10,3 +10,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+*.zip
+
+Robot questions.pages/Data/Hardcover_bullet_black-13.png
+
+Robot questions.pages/Metadata/BuildVersionHistory.plist
+
+Robot questions.pages/Metadata/DocumentIdentifier
+
+Robot questions.pages/Metadata/Properties.plist
+
+Robot questions.pages/preview-micro.jpg

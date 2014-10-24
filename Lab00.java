@@ -14,7 +14,7 @@ public class Lab00 {
      public static void main(String[] args) {
              Display.openWorld("maps/first.map");
    Display.setSize(10, 10);
-   Display.setSpeed(1);
+   Display.setSpeed(5);
    
    Robot karel = new Robot();
    
@@ -27,6 +27,11 @@ public class Lab00 {
    karel.move();
    karel.turnLeft();
    karel.turnLeft();
+   
+   
+
+
+
    
    
      }
